@@ -10,7 +10,7 @@
             </h1>
             <h2 class="h4 mb-4">
               Welcome to the Minimal theme.<br>
-              This is our first change to this widget. <br>
+              This is our remote developer working on the widget.<br>
               This is an HTML widget that you can modify in the Page Builder section.
               You can also modify the style in the Template Builder section.
             </h2>
